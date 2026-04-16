@@ -1,4 +1,11 @@
 body {
 
     background-color:blueviolet 
-};
+}
+
+h1 {
+
+    font-size: 32px;
+    background-color: red;
+    color: white;
+}
